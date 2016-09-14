@@ -1,2 +1,2 @@
-# crescendo - كريشندو
+# Crescendo - كريشندو
 Experimental arabic font project 
